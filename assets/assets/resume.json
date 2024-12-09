@@ -1,0 +1,240 @@
+{
+    "links": {
+        "about": "About",
+        "education": "Education",
+        "experience": "Experience",
+        "skills": "Skills",
+        "interests": "Interests",
+        "projects": "Projects"
+    },
+    "personalInfo": {
+        "title": "About Me 🙋",
+        "description": "Working as an aspiring and dedicated Mobile Application Developer and having six-years post qualification experience in iOS app development and deployment at Apple Store. \n\n\nI possess proven successful experience of creating, maintaining, and implementing source code for back-end functionalities mobile and web applications to work properly and also of designing and developing user interfaces. \n\n\nEquipped with first-class analytical and apt problem-solving skills; I am able to work on own initiative and as a reliable part of cross-functional team!!!",
+        "firstName": "Awais",
+        "lastName": "Akram",
+        "subHeadingText": "Mobile Application Developer",
+        "location": "Helsinki, Finland",
+        "age": "28",
+        "nationality": "Pakistan",
+        "interests": "Cars, Technology, Cooking, Exercising",
+        "latestStudy": "Master's in Information Technology @ UEF",
+        "latestEmployment": "Mobile App Developer @ HyperIn Oy",
+        "phoneNumber": "+358 -",
+        "email": "",
+        "linkedin": "https://www.linkedin.com/in/owaisss10/",
+        "github": "https://github.com/owaisss10/"
+    },
+    "education": {
+        "title": "Education 🎓",
+        "description": "I've completed two degrees in Information Technology, which have equipped me with a versatile skill set covering various aspects of the IT domain",
+        "degrees": [
+            {
+                "logoUrl": "https://sites.uef.fi/logoverkosto/wp-content/uploads/sites/374/2022/07/UEF-musta-logo-engl-pysty-1024x892.jpg",
+                "institute": "University of Eastern Finland(UEF) \nJoensuu, Finland",
+                "name": "International Master's Degree Programme in Information Technology (IMPIT)",
+                "achievements": "Master's Thesis:\nRandom Swap K-means Clustering Optimization \nCGPA: 4.0/5.0",
+                "startEndDate": "September 2019 - June 2021",
+                "fileUrl": "assets/assets/docs/MSc_AwaisAkram_Thesis.pdf"
+            },
+            {
+                "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/1e/Pir_Mehr_Ali_Shah_Arid_Agriculture_University.png",
+                "institute": "University of Arid Agriculture \nRawalpindi, Pakistan",
+                "name": "Bachelor of Science in Information Technology (B.Sc.)",
+                "achievements": "Bachelor's Thesis:\nFake Calculator - Data Vault (iOS App) \nCGPA: 3.26/4.00",
+                "startEndDate": "September 2013 - August 2017",
+                "fileUrl": "assets/assets/docs/BSc_AwaisAkram_Thesis.pdf"
+            }
+        ]
+    },
+    "workExperience": {
+        "title": "Experience 💻",
+        "description": "Upon obtaining my bachelor's degree in 2017, I secured positions within IT firms in Pakistan, where I acquired two years of professional experience. Subsequently, I transitioned to Finland and commenced employment as a Research Assistant at the University of Eastern Finland. \nAccruing a cumulative six years of experience within the Information Technology domain, I have actively engaged in various projects throughout my career.",
+        "companies": [
+            {
+                "logoUrl": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/rlxikrqhujhlornl1ycb",
+                "position": "Mobile App Developer",
+                "company": "HyperIn Oy \nHelsinki, FI",
+                "responsibilities": "- iOS mobile development in an agile environment.\n- Creating and maintaining feature and process documentation related to mobile development.\n- Giving support to operations for delivering the mobile applications",
+                "startEndDate": "June 2021 - Present",
+                "companyLink": "https://hyperin.com"
+            },
+            {
+                "logoUrl": "https://sites.uef.fi/logoverkosto/wp-content/uploads/sites/374/2022/07/UEF-musta-logo-engl-pysty-1024x892.jpg",
+                "position": "Research Assistant",
+                "company": "University of Eastern Finland \nJoensuu, FI",
+                "responsibilities": "- Maps with Apple MapKit and Google Maps SDKs.\n- Google Directions and OSRM Directions and Routing.\n- Travelling Salesman Problem in Mobile Application Development Field.\n- Writing scripts in PHP",
+                "startEndDate": "October 2019 - May 2021",
+                "companyLink": "https://uef.fi/en"
+            },
+            {
+                "logoUrl": "https://www.dplit.com/wp-content/uploads/2022/11/DPL-logo-square.png",
+                "position": "iOS Application Developer",
+                "company": "Digital Prodigy Limited (DPL) \nIslamabad, PK",
+                "responsibilities": "- Test Driven Development - Unit Testing. \n- Automated Deployment of Apps - FastLane. \n- Hybrid App Development (React Native & Vue.js). \n- Client Communication (Empathic Listening)",
+                "startEndDate": "March 2019 - August 2019",
+                "companyLink": "https://dplit.com/"
+            },
+            {
+                "logoUrl": "https://media.licdn.com/dms/image/C4D0BAQE9mMg1I8mZSw/company-logo_200_200/0/1631351771654?e=2147483647&v=beta&t=Xnx_iStbmgLleF3UuoWiAZFFlyDY7s5FjhHzpneSIrk",
+                "position": "iOS Application Developer",
+                "company": "Apollo Telecom (Pvt) Ltd. \nIslamabad, PK",
+                "responsibilities": "- Refined innovative user interface solutions. \n- Managed approval process for App Store. \n- Push Notifications - PUSHER. \n- Used sketches scenarios flows and paper prototypes",
+                "startEndDate": "February 2018 - February 2019",
+                "companyLink": "https://apollo.com.pk/"
+            }
+        ]
+    },
+    "socialLinks": [
+        {
+            "name": "location",
+            "url": "Helsinki, Finland"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/owaisss10/"
+        },
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/in/owaisss10/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/owaisss10"
+        },
+        {
+            "name": "behance",
+            "url": "https://www.behance.net/owaisss10"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@owaisss10"
+        }
+    ],
+    "skill": {
+        "title": "Skills 🎯",
+        "description": "I have few skills that are mentioned below. I am always eager to learn new skills, and gain valuable experience. I do volunteer work for many different social and technical organizations. These are more focused organizations where I am presently volunteering.",
+        "iconsTitle": "Programming Languages & Tools",
+        "devIcons": [
+            {
+                "name": "Swift",
+                "logoUrl": "swift/swift-original.svg"
+            },
+            {
+                "name": "Objective-C",
+                "logoUrl": "objectivec/objectivec-plain.svg"
+            },
+            {
+                "name": "Flutter",
+                "logoUrl": "flutter/flutter-original.svg"
+            },
+            {
+                "name": "Android",
+                "logoUrl": "android/android-original.svg"
+            },
+            {
+                "name": "Kotlin",
+                "logoUrl": "kotlin/kotlin-original.svg"
+            },
+            {
+                "name": "HTML5",
+                "logoUrl": "html5/html5-original.svg"
+            },
+            {
+                "name": "Javascript",
+                "logoUrl": "javascript/javascript-original.svg"
+            },
+            {
+                "name": "CSS3",
+                "logoUrl": "css3/css3-original.svg"
+            },
+            {
+                "name": "Vue.js",
+                "logoUrl": "vuejs/vuejs-original.svg"
+            },
+            {
+                "name": "NodeJS",
+                "logoUrl": "nodejs/nodejs-original.svg"
+            },
+            {
+                "name": "Git versioning tools",
+                "logoUrl": "git/git-original.svg"
+            },
+            {
+                "name": "VS Code",
+                "logoUrl": "vscode/vscode-original.svg"
+            },
+            {
+                "name": "Xcode",
+                "logoUrl": "xcode/xcode-original.svg"
+            },
+            {
+                "name": "Android Studio",
+                "logoUrl": "androidstudio/androidstudio-original.svg"
+            },
+            {
+                "name": "Figma",
+                "logoUrl": "figma/figma-original.svg"
+            }
+        ],
+        "workflowMobileTitle": "Mobile Applications Workflow",
+        "workflowMobileItems": [
+            "Responsive Designs using Autolayout & Constraints",
+            "Test Driven Development - Unit Testing",
+            "Automated Deployment of Apps - FastLane and Xcode Cloud",
+            "Location-Aware Mobile Application Development",
+            "Design Patterns"
+        ],
+        "workflowWebTitle": "Web Applications Workflow",
+        "workflowWebItems": [
+            "Responsive Design & UX",
+            "Mobile-First, Responsive Design",
+            "Front-End Designing, UI/UX",
+            "Deadline driven",
+            "Attention to UI details",
+            "Agile Development & Scrum",
+            "Team working"
+        ]
+    },
+    "interests": {
+        "title": "Interests 😄",
+        "description": "Creating content is more than just a hobby for me—it's a passion that fuels my creativity and drives my desire to connect with others who share my interests.",
+        "items": [
+            {
+                "title": "Apart from my professional engagements, I enjoy spending time being outdoors whether alone or with friends. I love to meet and know new people from diverse backgrounds. \n\nIn winter, I like exploring coffee places and outdoor walks. During the warmer months, I enjoy cycling, playing futsal, and capturing picturesque landscapes of Finland. \n\nI am an aspiring chef and when indoors I prefer to watch sci-fi and fantasy genre movies and television shows. In my spare time I like to explore latest technology advancements in mobile and web development world and coding in my personal projects! 🙌👨‍💻!",
+                "logoUrl": ""
+            }
+        ]
+    },
+    "awards": {
+        "title": "Awards 🏆",
+        "description": "I have been honored with awards in both my professional career and in sports.",
+        "items": [
+            {
+                "title": "HyperIn Star Award",
+                "subtitle": "December 2023 - Presented for showing growth, evolution and communication",
+                "logoUrl": ""
+            },
+            {
+                "title": "Certificate of Participation",
+                "subtitle": "Certificate of Participation in Pakistan Software Quality Conference(PSQC) 2018 - Pakistan Software Testing Board(PSTB)",
+                "logoUrl": ""
+            },
+            {
+                "title": "Runner Up Position",
+                "subtitle": "Runner Up Position in Interfaculty Football Championship 2015 - University of Arid Agriculture",
+                "logoUrl": ""
+            }
+        ]
+    },
+    "projects": {
+        "title": "Personal Projects 🦾🧠",
+        "projectsInfo": [
+            {
+                "name": "Resume Website",
+                "description": "My personal resume website.",
+                "image": "/images/resumenuxt.jpg",
+                "siteUrl": "https://awaisakram.com/nuxtresume/"
+            }
+        ]
+    }
+}
